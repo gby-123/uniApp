@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/home",
+    "pages/message/message"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "博客",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#7ccd7c",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
+  "usingComponents": {}
+}

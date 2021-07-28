@@ -1,0 +1,38 @@
+// 在本文件中可配置云数据库初始化，数据格式见：https://uniapp.dcloud.io/uniCloud/hellodb?id=db-init
+// 编写完毕后对本文件点右键，可按配置规则创建表和添加数据
+{
+	"article": {
+		"data": [{
+				"title": "标题",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCk643jBSjhgJQIMO4FOOgCQGU.jpg"
+			},
+			{
+				"title": "标题2",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCm643jBSjj19X9AjDuBTjpAkBl.jpg"
+			},
+			{
+				"title": "标题3",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCk643jBSjhgJQIMO4FOOgCQGU.jpg"
+			},
+			{
+				"title": "标题4",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCm643jBSjj19X9AjDuBTjpAkBl.jpg"
+			}, {
+				"title": "标题5",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCk643jBSjhgJQIMO4FOOgCQGU.jpg"
+			},
+			{
+				"title": "标题6",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCm643jBSjj19X9AjDuBTjpAkBl.jpg"
+			}, {
+				"title": "标题7",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCk643jBSjhgJQIMO4FOOgCQGU.jpg"
+			},
+			{
+				"title": "标题8",
+				"cover": "https://419334.s81i.faiusr.com/2/101/AFEIhswZEAIYACCm643jBSjj19X9AjDuBTjpAkBl.jpg"
+			}
+		]
+	},
+	"content": {}
+}
